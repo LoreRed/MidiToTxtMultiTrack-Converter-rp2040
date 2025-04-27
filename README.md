@@ -1,6 +1,6 @@
 # MidiToTxtMultiTrack
 
-Una libreria per Arduino che converte file MIDI in file di testo leggibile, consentendo di gestire tracce multiple con informazioni sulle note e il tempo.
+Una libreria per rp2040 che converte file MIDI in file di testo leggibile, consentendo di gestire tracce multiple con informazioni sulle note e il tempo.
 
 ## Caratteristiche
 - Legge file MIDI.
